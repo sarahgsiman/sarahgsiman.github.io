@@ -9,8 +9,8 @@ title: "About David Florian"
 Sarah is a sophomore studying Chemical Engineering, with a particular passion for sustainability. 
 
 * Vanderbilt University
- * BE in Chemical Engineering
- * Chemistry Minor
+    * BE in Chemical Engineering
+    * Chemistry Minor
 
 ## Technical Skills
 
