@@ -6,23 +6,27 @@ title: "About David Florian"
 
 ## Education
 
-David prides himself on his diverse skill set. His most prominent fields of expertise are additive manufacturing (i.e., 3D printing) and biotechnology. 
+Sarah is a sophomore studying Chemical Engineering, with a particular passion for sustainability. 
 
-* University of Virginia
-  * BS Mathematics
-  * BS Biomedical Engineering
 * Vanderbilt University
-  * PhD Biomedical Engineering
+ * BE in Chemical Engineering
+ * Chemistry Minor
 
 ## Technical Skills
 
-David can operate a number of different computer controlled (CNC) fabrication tools to turn 3D models into real-life parts. David has experience with the following additive manufacturing technologies:
+Sarah has conducted research in a chemistry lab and has experience working with a number of different instruments:
 
-* Fused Filament Fabrication (FFF)
-* Stereolithography (SLA)
-* Selective Laser Sintering (SLS)
-* 3D Inkjet Printing
-* Bioplotting
+* Nuclear Magnetic Resonance 
+* X-ray Diffraction
+* IR Spectroscopy
+* Gas Chromatography
+* Zetasizer
+
+Other Technical Skills:
+
+* Adobe Illustrator
+* Python
+* Musescore
 
 ## Press 
 
