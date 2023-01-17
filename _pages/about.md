@@ -6,7 +6,7 @@ title: "About Sarah Siman"
 
 ## Education
 
-Sarah is a sophomore studying Chemical Engineering, with a particular passion for sustainability. 
+Sarah is a sophomore studying Chemical Engineering, with a strong passion for sustainability. 
 
 * Vanderbilt University
     * BE in Chemical Engineering
