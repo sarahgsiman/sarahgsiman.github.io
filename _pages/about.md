@@ -28,8 +28,8 @@ Other Technical Skills:
 * Python
 * Musescore
 
-## Press 
+## Links 
 
-The new Digital Fabrication Minor was covered in the [Vanderbilt Hustler](https://vanderbilthustler.com/2022/11/09/digital-fabrication-minor-introduced-for-2022-23-academic-year/).
+Sarah was an undergraduate researcher for the [Macdonald Group](https://www.vanderbilt.edu/AnS/chemistry/groups/macdonald/index.html) and completed an independent research project on the durability of iron oxide-silica bonds in Anishinaabe rock paintings.
 
 <img src="/assets/img/David_Headshot_web2.jpg" alt="David Florian" style="width:200px;"/>
