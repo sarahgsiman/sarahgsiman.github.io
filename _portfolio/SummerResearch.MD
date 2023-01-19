@@ -2,7 +2,7 @@
 title: "Indigenous Rock Art Research"
 excerpt: "This project investigated the lost practice of Anishinaabe rock paintings through the lens of chemistry."
 header:
-  image: 
+  image: /assets/img/closeupbeaker.png
   teaser: /assets/img/labphoto.jpg
 gallery:
   - image_path: assets/img/Slide-3.png
