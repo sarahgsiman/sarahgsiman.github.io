@@ -5,7 +5,7 @@ header:
   image: /assets/img/closeupbeaker.png
   teaser: /assets/img/labphoto.jpg
 gallery:
-  - image_path: assets/img/Slide-3.png
+  - image_path: assets/img/microscopeslides.png
   - image_path: assets/img/Slide-2.png
   - image_path: assets/img/Slide-4.png
    
@@ -26,6 +26,6 @@ gallery:
 # Poster
 I presented the poster below at Vanderbilt Institute of Nanoscale Science and Engineering (VINSE) REU's summer poster session and won Fan Favorite.
 
-<img src="/assets/img/Siman VINSE Poster final.pdf" alt="VINSE poster" style="width:400px;"/>
+<img src="assets/img/Siman VINSE Poster final.pdf" alt="VINSE poster" style="width:400px;"/>
 
 {% include gallery caption="Summer Research Gallery" %}
