@@ -11,7 +11,7 @@ gallery:
    
 ---
 
-**Over the summer of 2022, I worked in the [Macdonald Lab] (https://www.vanderbilt.edu/AnS/chemistry/groups/macdonald/index.html) on an independent research project.
+**Over the summer of 2022, I worked in the [Macdonald Group](https://www.vanderbilt.edu/AnS/chemistry/groups/macdonald/index.html) on an independent research project.
 
 # The Vision
 
