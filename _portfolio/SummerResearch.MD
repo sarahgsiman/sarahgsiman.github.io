@@ -26,6 +26,6 @@ gallery:
 # Poster
 I presented the poster below at Vanderbilt Institute of Nanoscale Science and Engineering (VINSE) REU's summer poster session and won Fan Favorite.
 
-<img src="assets/img/SimanVINSEPosterFinal.pdf" alt="VINSE poster" style="width:400px;"/>
+<img src="/assets/img/SimanVINSEPosterFinal.pdf" alt="VINSE poster" style="width:400px;"/>
 
 {% include gallery caption="Summer Research Gallery" %}
