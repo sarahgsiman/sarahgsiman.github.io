@@ -11,7 +11,7 @@ gallery:
    
 ---
 
-**Over the summer of 2022, I worked in the [Macdonald Group](https://www.vanderbilt.edu/AnS/chemistry/groups/macdonald/index.html) on an independent research project.
+**Over the summer of 2022, I worked in the [Macdonald Group](https://www.vanderbilt.edu/AnS/chemistry/groups/macdonald/index.html) on an independent research project.**
 
 # The Vision
 
@@ -24,6 +24,8 @@ gallery:
 * Using an upside-down Buchner funnel and a test tube rack, I created a standardized way to evenly distribute "rain" onto the microscope slides. After many repeated trials and slight changes to the procedure, I was able to pinpoint the conditions that most affected the durability of the bonds. The poster below goes into further detail.
 
 # Poster
-/assets/img/Siman VINSE Poster final.pdf
+I presented the poster below at Vanderbilt Institute of Nanoscale Science and Engineering (VINSE) REU's summer poster session and won Fan Favorite.
+
+<img src="/assets/img/Siman VINSE Poster final.pdf" alt="VINSE poster" style="width:400px;"/>
 
 {% include gallery caption="Summer Research Gallery" %}
