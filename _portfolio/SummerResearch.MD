@@ -24,6 +24,6 @@ gallery:
 * Using an upside-down Buchner funnel and a test tube rack, I created a standardized way to evenly distribute "rain" onto the microscope slides. After many repeated trials and slight changes to the procedure, I was able to pinpoint the conditions that most affected the durability of the bonds. The poster below goes into further detail.
 
 # Poster
-
+/assets/img/Siman VINSE Poster final.pdf
 
 {% include gallery caption="Summer Research Gallery" %}
