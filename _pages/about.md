@@ -28,8 +28,5 @@ Other Technical Skills:
 * Python
 * Musescore
 
-## Links 
-
-Sarah was an undergraduate researcher for the [Macdonald Group](https://www.vanderbilt.edu/AnS/chemistry/groups/macdonald/index.html) and completed an independent research project on the durability of iron oxide-silica bonds in Anishinaabe rock paintings.
 
 <img src="/assets/img/Sarah_large_photo.png" alt="Sarah Siman" style="width:400px;"/>
