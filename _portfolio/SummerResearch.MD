@@ -11,6 +11,8 @@ gallery:
    
 ---
 
+**Over the summer of 2022, I worked in the [Macdonald Lab] (https://www.vanderbilt.edu/AnS/chemistry/groups/macdonald/index.html) on an independent research project.
+
 # The Vision
 
 * The Anishinaabe people are an indigenous cultural group located in the area surrounding the Great Lakes. Vibrant red paintings on the faces of cliffs overlooking the Great Lakes have been created by members of this culture, some of which have lasted for over 2,000 years (while modern grafitti on the cliffs washes off after a season). Unfortunately, the methods of creating the pigments and painting the cliffs have been lost.
@@ -18,9 +20,10 @@ gallery:
 
 # The Project
 
-* 
+* I needed to first simulate the application of pigment onto the rock face, and then simulate rainfall hitting the painted rocks. I used iron oxide powder in solutions at different pHs and attemped a few different methods of applying the iron oxide to microscope slides (silica). Once I found the best application method, it was time to "wash" them.
+* Using an upside-down Buchner funnel and a test tube rack, I created a standardized way to evenly distribute "rain" onto the microscope slides. After many repeated trials and slight changes to the procedure, I was able to pinpoint the conditions that most affected the durability of the bonds. The poster below goes into further detail.
 
 # Poster
-<iframe src="https://myhub.autodesk360.com/ue2df0af5/shares/public/SH35dfcQT936092f0e437224cd558fdcdc2f?mode=embed" width="800" height="600" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
-{% include gallery caption="Large Format 3D Printer Gallery" %}
+
+{% include gallery caption="Summer Research Gallery" %}
