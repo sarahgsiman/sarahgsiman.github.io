@@ -11,7 +11,7 @@ gallery:
    
 ---
 
-**Over the summer of 2022, I worked in the [Macdonald Group](https://www.vanderbilt.edu/AnS/chemistry/groups/macdonald/index.html) on an independent research project.**
+**Over the summer of 2022, I worked in the [Macdonald Group](https://www.vanderbilt.edu/AnS/chemistry/groups/macdonald/index.html) at Vanderbilt's Department of Chemistry on an independent research project.**
 
 # The Vision
 
@@ -26,6 +26,6 @@ gallery:
 # Poster
 I presented the poster below at Vanderbilt Institute of Nanoscale Science and Engineering (VINSE) REU's summer poster session and won Fan Favorite.
 
-<img src="assets/img/Siman VINSE Poster final.pdf" alt="VINSE poster" style="width:400px;"/>
+<img src="assets/img/Siman_VINSE Poster_final.pdf" alt="VINSE poster" style="width:400px;"/>
 
 {% include gallery caption="Summer Research Gallery" %}
