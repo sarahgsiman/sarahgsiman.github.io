@@ -12,7 +12,7 @@ excerpt: "Welcome to Sarah's website. Sarah is an engineering student with a wid
 feature_row:
   - image_path: assets/img/labfunnelphoto.jpg
     alt: "Adding water to funnel"
-    title: ""Rainfall" Simulator"
+    title: "Rainfall Simulator"
     excerpt: "An apparatus Sarah created to provide a standardized process in her research project."
   - image_path: assets/img/Plasma-Cutter-Banner.jpg
     alt: "placeholder image 2"
