@@ -6,7 +6,7 @@ header:
   teaser: /assets/img/labphoto.jpg
 gallery:
   - image_path: assets/img/microscopeslides.png
-  - image_path: assets/img/Slide-2.png
+  - image_path: assets/img/SarahwithPoster.jpeg
   - image_path: assets/img/Slide-4.png
    
 ---
