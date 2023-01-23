@@ -11,9 +11,9 @@ gallery:
   - url: /assets/img/SarahCNCart.jpeg
     image_path: assets/img/SarahCNCart.jpeg
     alt: "Sarah in front of art"
-  - url: /assets/img/Cyber-Scooter-3.jpg
-    image_path: assets/img/Cyber-Scooter-3.jpg
-    alt: "placeholder image 3"
+  - url: /assets/img/CNCswirls.jpeg
+    image_path: assets/img/CNCswirls.jpeg
+    alt: "CNC Swirls"
 ---
 
 #CNC Art Project
