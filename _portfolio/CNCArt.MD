@@ -2,7 +2,7 @@
 title: "CNC Art Project"
 excerpt: "This entire artwork was cut by a CNC router."
 header:
-  image: /assets/img/Cyber-Scooter-Banner.jpg
+  image: assets/img/Artonfloor.jpeg
   teaser: /assets/img/Cyber-Scooter-TH.jpg
 gallery:
   - url: /assets/img/Cyber-Scooter-1.jpg
