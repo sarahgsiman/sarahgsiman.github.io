@@ -18,9 +18,9 @@ feature_row:
     alt: "Wood cut into circles"
     title: "CNC Wood Art Project"
     excerpt: "Wood cut into circles by the CNC router."
-  - image_path: assets/img/Zidex-Thumbnail.jpg
-    title: "Bespoke IDEX 3D Printer"
-    excerpt: "Multimaterial printing. "
+  - image_path: assets/img/Artonwall.jpeg
+    title: "CNC Wood-cut Artwork"
+    excerpt: "Sarah's work was displayed at an exhibition."
 ---
 
 {% include feature_row %}
