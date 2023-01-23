@@ -97,12 +97,12 @@ analytics:
 # Site Author
 author:
   name             : *name # *name is a YAML reference pointing to the &anchor earlier
-  avatar           : "assets/img/Sarah_large_photo.png"
+  avatar           : "assets/img/sarahheadhsot.jpeg"
   bio              : "Vanderbilt Chemical Engineering Student"
   location         : "Nashville, TN"
   links:
     - label: "LinkedIn"
-      icon: "fab fa-fw fa-github"
+      icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/sarahgsiman/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
