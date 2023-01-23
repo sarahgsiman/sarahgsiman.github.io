@@ -16,7 +16,10 @@ gallery:
     alt: "CNC Swirls"
 ---
 
-#CNC Art Project
+  * This was a project for my IB Visual Arts class, where I used a CNC router to cut pieces of plywood into circular and floral shapes.
+  * I drew the designs on the wood myself, scanned the images, and uploaded them onto Inkscape, where I was then able to manipulate them to become the wood carvings.
+  * The floral designs are inspired by the Lenca people of Honduras and other parts of Central America. They are known for their beautiful handmade pottery with engravings similar to the ones I created.
+  * The entire project, from start to finish, took an entire school year.
 
 
-{% include gallery caption="Gallery of CNC Art Process" %}
+{% include gallery caption="Gallery of Art Production Process" %}
