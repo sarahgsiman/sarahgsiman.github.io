@@ -5,11 +5,11 @@ header:
   image: assets/img/Artonfloor.jpeg
   teaser: /assets/img/Cyber-Scooter-TH.jpg
 gallery:
-  - url: assets/img/CNCstars.jpeg
-    image_path: assets/img/Cyber-Scooter-1.jpg
+  - url: /assets/img/CNCstars.jpeg
+    image_path: assets/img/CNCstars.jpeg
     alt: "CNC Stars"
-  - url: assets/img/SarahCNCart.jpeg
-    image_path: assets/img/Cyber-Scooter-2.jpg
+  - url: /assets/img/SarahCNCart.jpeg
+    image_path: assets/img/SarahCNCart.jpeg
     alt: "Sarah in front of art"
   - url: /assets/img/Cyber-Scooter-3.jpg
     image_path: assets/img/Cyber-Scooter-3.jpg
