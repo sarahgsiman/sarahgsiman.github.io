@@ -14,10 +14,10 @@ feature_row:
     alt: "Adding water to funnel"
     title: "Rainfall Simulator"
     excerpt: "An apparatus Sarah created to provide a standardized process in her research project."
-  - image_path: assets/img/Plasma-Cutter-Banner.jpg
-    alt: "placeholder image 2"
-    title: "DIY Plasma Cutter"
-    excerpt: "A hot plasma stream slices through sheet metal."
+  - image_path: assets/img/CNCcirclecut.jpeg
+    alt: "Wood cut into circles"
+    title: "CNC Wood Art Project"
+    excerpt: "Wood cut into circles by the CNC router."
   - image_path: assets/img/Zidex-Thumbnail.jpg
     title: "Bespoke IDEX 3D Printer"
     excerpt: "Multimaterial printing. "
